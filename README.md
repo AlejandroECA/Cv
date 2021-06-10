@@ -41,7 +41,10 @@
 			• Participate in technical support for housing programs divisions.
 			• Perform analytical studies to identify existing or potential problems within divisions/departments and make recommendations for improved processes/procedures.
 			• Analyze internal controls for effectiveness
+			
+			
 			RSR corp. – Data Analyst. Chicago, Illinois Nov, 2018 - Jun, 2020
+			
 			• Responsible for conducting analysis and generating recommendations, from different establishments in the USA with the aim of reducing costs, optimizing resources, and increasing profits.
 			• Creating, Maintaining, and Administering an employee, sales, purchases and inventory database in Microsoft Access and migrating database to SQL.
 			• Provide guidance to operational management on possible strategies to minimize food and beverage, inventory, labor costs.
